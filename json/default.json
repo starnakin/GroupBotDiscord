@@ -1,0 +1,48 @@
+{
+    "permissions": {
+        "leader": {
+            "invite_people": true,
+            "kick_people": true,
+            "disband": true,
+            "create_text_channel": true,
+            "create_voice_channel": true,
+            "create_vote": true,
+            "create_embed": true,
+            "rename": true,
+            "promote": true
+        },
+        "officier": {
+            "invite_people": true,
+            "kick_people": true,
+            "disband": true,
+            "create_text_channel": true,
+            "create_voice_channel": true,
+            "create_vote": true,
+            "create_embed": true,
+            "rename": true,
+            "promote": true
+        },
+        "membre": {
+            "invite_people": true,
+            "kick_people": true,
+            "disband": true,
+            "create_text_channel": true,
+            "create_voice_channel": true,
+            "create_vote": true,
+            "create_embed": true,
+            "rename": true,
+            "promote": true
+        },
+        "new": {
+            "invite_people": true,
+            "kick_people": true,
+            "disband": true,
+            "create_text_channel": true,
+            "create_voice_channel": true,
+            "create_vote": true,
+            "create_embed": true,
+            "rename": true,
+            "promote": true
+        }
+    }
+}
